@@ -1,9 +1,9 @@
-// Personaliza estos datos. Los enlaces vacíos no se muestran.
+// Perfil y enlaces de contacto. Los campos vacíos no generan enlaces.
 const profile = {
   name: '',
   email: '',
-  github: '', // Ejemplo: https://github.com/tu-usuario
-  linkedin: '' // Ejemplo: https://www.linkedin.com/in/tu-usuario/
+  github: 'https://github.com/ManuelMoAl',
+  linkedin: ''
 };
 
 const projects = {
